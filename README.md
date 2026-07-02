@@ -7,6 +7,6 @@ These are assignments for school where I took starter code and added functionali
 
 4-2_Assignment I added user input to traverse the 3D scene. I added q and e for up and down movement, scroll wheel to control the movement speed, and p and o to control the view (p for perspective view and o for orthographic).
 
-5-2_Assignment I added custom textures to the simple shape meshes.
+5-2_Assignment I added custom textures to the simple shape meshes. The textures folder is needed in this folder, it was to large to add to GitHub.
 
 6-2_Assignment I added lighting to the 3D scene.
